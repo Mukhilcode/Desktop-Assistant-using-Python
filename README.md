@@ -25,3 +25,5 @@ conda activate assitant1
 pip install -r requirement.txt
 '''
 
+
+
