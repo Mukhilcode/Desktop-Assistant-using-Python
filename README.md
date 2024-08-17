@@ -25,5 +25,11 @@ conda activate assitant1
 pip install -r requirement.txt
 '''
 
+## Github Commands
+'''
+git add .
+git commit -m "message"
+git push origin main
+'''
 
 
